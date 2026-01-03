@@ -1,0 +1,1 @@
+All the standard python interview coding question is avaialblle here.
